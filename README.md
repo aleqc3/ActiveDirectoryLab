@@ -1,6 +1,6 @@
 <h1>Active Directory Home Lab</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [YouTube Demonstration](https://youtu.be/7e)
 
 <h2>Description</h2>
 In this Lab, we will guide you through the process of creating an Active Directory home lab environment using Oracle VirtualBox. This step-by-step tutorial is designed to enhance your understanding of Active Directory and Windows networking by providing hands-on experience in configuring and running a virtual lab. To maximize your learning, we recommend working through the lab multiple times and attempting the setup independently before referring to the video. If you have any questions or need further assistance, please do not hesitate to ask. Your engagement and proactive approach will greatly contribute to your mastery of these critical concepts
