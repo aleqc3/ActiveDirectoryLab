@@ -12,8 +12,15 @@ In this Lab, I will guide you through the process of creating an Active Director
 - <b>PowerShell</b> 
 - <b>Oracle Virtual Box</b>
 
-<h2>Environments Used </h2>
+<h2>Links used</h2>
 
+-<b>Windows Isnatllation Media <b> (https://www.microsoft.com/en-us/software-download/windows10)
+
+-<b>Oracle Virtual Box <b> (https://www.virtualbox.org/wiki/Downloads)
+
+-<b>Server 2019 ISO <b> (https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019)
+
+<h2>Environments Used </h2>
 - <b>Windows 10</b> (21H2)
 
 <h2>Program walk-through:</h2>
