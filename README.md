@@ -14,9 +14,9 @@ In this Lab, I will guide you through the process of creating an Active Director
 
 <h2>Links used</h2>
 
--<b>Windows Isnatllation Media <b> (https://www.microsoft.com/en-us/software-download/windows10)
-
 -<b>Oracle Virtual Box <b> (https://www.virtualbox.org/wiki/Downloads)
+ 
+-<b>Windows Isnatllation Media <b> (https://www.microsoft.com/en-us/software-download/windows10)
 
 -<b>Server 2019 ISO <b> (https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019)
 
@@ -49,9 +49,12 @@ Lab Plan: <br/>
 By following these steps, we will set up a basic Windows networking environment with Active Directory.
 
 <p align="center">
-Lab Plan: <br/>
-<img src="https://imgur.com/BM4kXVV.png" height="80%" width="80%" alt="Lab plan"/>
-<br /> 
+Download and Install Oracle VirtualBox: <br/>
+<img src="https://imgur.com/uM2qtIy.png" height="80%" width="80%" alt="Download and Install Oracle VirtualBox"/>
+<br /> For the project, start by downloading VirtualBox. Use the link in the description to access the download page, select the appropriate version for your operating system (Windows or Mac), and install it. Once VirtualBox is installed, download and install the Extension Pack from the same page—it should be easy to find. After completing these installations, proceed to the next step as outlined in the description.
+
+
+
 
 <!--
  ```diff
