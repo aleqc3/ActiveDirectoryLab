@@ -28,7 +28,7 @@ In this Lab, I will guide you through the process of creating an Active Director
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Lab Paln: <br/>
+Lab Plan: <br/>
 <img src="https://imgur.com/BM4kXVV.png" height="80%" width="80%" alt="Lab plan"/>
 <br />
 
