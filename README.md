@@ -29,7 +29,7 @@ In this Lab, I will guide you through the process of creating an Active Director
 
 <p align="center">
 Lab Paln: <br/>
-<img src="https://imgur.com/a/qiu0IF6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/BM4kXVV.png" height="80%" width="80%" alt="Lab plan"/>
 <br />
 
 
