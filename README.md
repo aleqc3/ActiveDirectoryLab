@@ -20,6 +20,8 @@ In this Lab, I will guide you through the process of creating an Active Director
 
 -<b>Server 2019 ISO <b> (https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019)
 
+-<b>Create Account Scripts <b> (https://github.com/aleqc3/ActiveDirectoryLab/blob/main/AD_PS-master%20(1).zip)
+
 <h2>Environments Used </h2>
 - <b>Windows 10</b> (21H2)
 
