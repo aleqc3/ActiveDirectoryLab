@@ -28,8 +28,8 @@ In this Lab, I will guide you through the process of creating an Active Director
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Lab Paln: <br/>
+<img src="https://imgur.com/a/qiu0IF6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 
